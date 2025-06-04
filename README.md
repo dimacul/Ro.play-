@@ -9,6 +9,7 @@ Package Audit:
     -> public static void logInAudit(String actionName); //scrie in fisierul de audit
 
 ----------------------------------------------------------------------------------
+
 Package Model:
   Package Enums:
     -public enum MusicGenre //genuri muzicale posibile
@@ -53,6 +54,7 @@ Package Model:
     -owner (User)
 
 ---------------------------------------------------------------------------------
+
 Package Service:
   public class AccountService:
     -userService
@@ -97,6 +99,7 @@ Package Service:
     -> shuffleAndPlayAll
 
 ------------------------------------------------------------------------------
+
 package BazaDeDate.DAOs:
   public Interface DAOInterface:
     -> create
