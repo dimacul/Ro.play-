@@ -5,7 +5,7 @@ Structura/ ierarhia claselor:
 
 Package Audit:
   public class Audit:
-    - FILENAME
+    - FILENAME\n
     -> public static void logInAudit(String actionName); //scrie in fisierul de audit
 
 ----------------------------------------------------------------------------------
